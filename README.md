@@ -1,4 +1,4 @@
-# STM32F10x-Standard-Peripheral-Library-C-Ver
+# STM32F10x-Standard-Peripheral-Library-CPP-Ver
 本项目是一个基于原生[STM32F10x Standard Peripheral Library V3.5][1],使用 __C++__ 语言二次开发的 _STM32F1系列_ MCU固件库,使用的标准为 __C++11__,主要目的在于利用 __C++__ 的语言优势,提高单片机程序的 __开发效率__ ,并简化应用程序的设计
 
 首先,在使用此软件之前,您可能需要提前了解如下概念:
